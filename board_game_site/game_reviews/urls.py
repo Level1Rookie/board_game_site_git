@@ -4,5 +4,6 @@ from . import views
 
 urlpatterns = [
     path('',views.index),
+    path('avalon/',views.avalon),
     path('admin/', admin.site.urls),
 ]

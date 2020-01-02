@@ -5,14 +5,104 @@ board_game_site  |signup|  |game reviews|  |store|
 		
 	game_reviews_index_page
 	game_review
-		game_score & comment
+		game_score
 		game_photos
 		game_objects
+		comment
 	
 		game_rules
 
 	board_game_store_infos
 	board_game_activities
 	board_game_store
-	
-		
+
+
+------------------版面設計1------------------
+阿瓦隆
+評分 4/5 分布
+遊戲類型 陣營 謀略 
+遊戲人數 5 ~ 10
+
+XgamephotosXXgamephotosXXgamephotosXXgamephotosX
+XgamephotosXXgamephotosXXgamephotosXXgamephotosX
+XgamephotosXXgamephotosXXgamephotosXXgamephotosX
+XgamephotosXXgamephotosXXgamephotosXXgamephotosX
+XgamephotosXXgamephotosXXgamephotosXXgamephotosX
+XgamephotosXXgamephotosXXgamephotosXXgamephotosX
+XgamephotosXXgamephotosXXgamephotosXXgamephotosX
+XgamephotosXXgamephotosXXgamephotosXXgamephotosX
+XgamephotosXXgamephotosXXgamephotosXXgamephotosX
+XgamephotosXXgamephotosXXgamephotosXXgamephotosX
+XgamephotosXXgamephotosXXgamephotosXXgamephotosX
+XgamephotosXXgamephotosXXgamephotosXXgamephotosX
+XgamephotosXXgamephotosXXgamephotosXXgamephotosX
+XgamephotosXXgamephotosXXgamephotosXXgamephotosX
+
+遊戲配備
+
+任務卡 * 4
+贊成反對票 * 20
+任務成功失敗 * 10
+
+
+遊戲進行概要
+https://youtube影片連結//avalon
+
+遊戲分為兩方陣營
+莫德雷德的爪牙 和 亞瑟的忠臣
+開始時由隊長選擇出任務的人
+決定後，大家同時翻開自己贊成或是反對
+
+
+勝利條件
+亞瑟的忠臣:		優先獲得三場勝利
+莫德雷德的爪牙:  優先獲得三場勝利 / 刺殺梅林	
+
+
+
+其他資源:
+遊戲進行所需音檔.mp3
+遊戲說明書.png
+
+------------------版面設計2------------------
+風聲
+評分 4.1/5 分布
+遊戲類型 陣營 謀略 
+遊玩人數 3 ~ 8
+
+XgamephotosXXgamephotosXXgamephotosXXgamephotosX
+XgamephotosXXgamephotosXXgamephotosXXgamephotosX
+XgamephotosXXgamephotosXXgamephotosXXgamephotosX
+XgamephotosXXgamephotosXXgamephotosXXgamephotosX
+XgamephotosXXgamephotosXXgamephotosXXgamephotosX
+XgamephotosXXgamephotosXXgamephotosXXgamephotosX
+XgamephotosXXgamephotosXXgamephotosXXgamephotosX
+XgamephotosXXgamephotosXXgamephotosXXgamephotosX
+XgamephotosXXgamephotosXXgamephotosXXgamephotosX
+XgamephotosXXgamephotosXXgamephotosXXgamephotosX
+XgamephotosXXgamephotosXXgamephotosXXgamephotosX
+XgamephotosXXgamephotosXXgamephotosXXgamephotosX
+XgamephotosXXgamephotosXXgamephotosXXgamephotosX
+XgamephotosXXgamephotosXXgamephotosXXgamephotosX
+
+遊戲配備
+
+人物卡片 * 30
+陣營卡片 * 8
+情報功能卡 * 100 (黑情報 * 30, 宏情報 * 30, 藍情報 * 30, 紅藍情報 * 10)
+
+
+遊戲進行概要
+https://youtube影片連結//wind
+
+遊戲由傳遞情報進行
+情報傳遞方式分為三種 密電/直達/文本
+
+
+勝利條件
+軍情:		獲得三張藍情報
+潛伏:		獲得三張紅情報
+特工:		完成秘密任務
+
+其他資源:
+遊戲說明書.png
